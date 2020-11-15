@@ -1,1 +1,2 @@
-print ('Miguel Coria')
+input ('What is your name?')
+
